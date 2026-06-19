@@ -18,9 +18,9 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/google/martian/v3"
-	"github.com/google/martian/v3/parse"
-	"github.com/google/martian/v3/proxyutil"
+	"github.com/whitebyte0/martian/v3"
+	"github.com/whitebyte0/martian/v3/parse"
+	"github.com/whitebyte0/martian/v3/proxyutil"
 )
 
 func init() {

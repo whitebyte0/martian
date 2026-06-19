@@ -19,8 +19,8 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/google/martian/v3/parse"
-	"github.com/google/martian/v3/proxyutil"
+	"github.com/whitebyte0/martian/v3/parse"
+	"github.com/whitebyte0/martian/v3/proxyutil"
 )
 
 func TestFromJSON(t *testing.T) {

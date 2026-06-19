@@ -25,7 +25,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/google/martian/v3/proxyutil"
+	"github.com/whitebyte0/martian/v3/proxyutil"
 )
 
 func TestRequestViewHeadersOnly(t *testing.T) {

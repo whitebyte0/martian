@@ -19,8 +19,8 @@
 package httpspec
 
 import (
-	"github.com/google/martian/v3/fifo"
-	"github.com/google/martian/v3/header"
+	"github.com/whitebyte0/martian/v3/fifo"
+	"github.com/whitebyte0/martian/v3/header"
 )
 
 // NewStack returns a martian modifier stack that handles ensuring proper proxy

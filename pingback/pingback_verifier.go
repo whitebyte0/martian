@@ -22,9 +22,9 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/google/martian/v3"
-	"github.com/google/martian/v3/parse"
-	"github.com/google/martian/v3/verify"
+	"github.com/whitebyte0/martian/v3"
+	"github.com/whitebyte0/martian/v3/parse"
+	"github.com/whitebyte0/martian/v3/verify"
 )
 
 const (

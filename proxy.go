@@ -31,12 +31,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/google/martian/v3/dialvia"
-	"github.com/google/martian/v3/log"
-	"github.com/google/martian/v3/mitm"
-	"github.com/google/martian/v3/nosigpipe"
-	"github.com/google/martian/v3/proxyutil"
-	"github.com/google/martian/v3/trafficshape"
+	"github.com/whitebyte0/martian/v3/dialvia"
+	"github.com/whitebyte0/martian/v3/log"
+	"github.com/whitebyte0/martian/v3/mitm"
+	"github.com/whitebyte0/martian/v3/nosigpipe"
+	"github.com/whitebyte0/martian/v3/proxyutil"
+	"github.com/whitebyte0/martian/v3/trafficshape"
 	"golang.org/x/net/http/httpguts"
 )
 

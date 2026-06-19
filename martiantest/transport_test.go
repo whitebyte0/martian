@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/google/martian/v3/proxyutil"
+	"github.com/whitebyte0/martian/v3/proxyutil"
 )
 
 func TestTransport(t *testing.T) {

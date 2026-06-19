@@ -17,9 +17,9 @@ package querystring
 import (
 	"encoding/json"
 
-	"github.com/google/martian/v3"
-	"github.com/google/martian/v3/filter"
-	"github.com/google/martian/v3/parse"
+	"github.com/whitebyte0/martian/v3"
+	"github.com/whitebyte0/martian/v3/filter"
+	"github.com/whitebyte0/martian/v3/parse"
 )
 
 var noop = martian.Noop("querystring.Filter")
